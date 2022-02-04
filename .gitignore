@@ -1,0 +1,10 @@
+# auto generated wildcard
+.env1
+
+# added by cds deploy
+default-env.json
+node_modules
+node_modules
+
+# auto generated wildcard
+bookshop/.env2
